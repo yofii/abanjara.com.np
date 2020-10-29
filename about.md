@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: about me.
 permalink: /about/
 layout: page
-excerpt: anuj banjara
+excerpt: abanjara
 comments: false
 ---
 
@@ -28,7 +28,7 @@ Lines combine to make shapes.
 
 Karkhana is an education company and a maker space. They are doing revolutionary work collaborating with schools to change traditional education in Nepal. I met Roshan and Pavitra in a five-day workshop at Kumudini Homes. The workshop was for identifying maker mentors in Pokhara. I was immediately drawn to Karkhana. The culture promoted learnings, innovation, and growth. Everything was so reflective and flawless because everything was based on design thinking. I met Anu and Prajjwal, who are two wonderful people I have come across.
 
-This is the story of dots which will connect other dots. Some dots have other stories. Some dots were faded. Some dots were forgotten. In the quest for growth and purpose, I have left many dots incomplete. In this blog, I wish to connect more dots: Momo, Movies, Minimalism, Marcus Aurelius, Meditations, Memoirs.
+This is the story of dots which will connect other dots. Some dots have other stories. Some dots were faded. Some dots were forgotten. In the quest for growth and purpose, I have left many dots incomplete. In this blog, I wish to connect more dots: Momo, Movies, Minimalism, Marcus Aurelius, Meditations, Memoirs. I wish that dots will be filled with colors and stories.
 
 <hr>
 
