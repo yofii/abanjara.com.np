@@ -2,13 +2,9 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
-  external: false
-
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+- title: b. koshero
+  url: https://prajjowl.com.np/bathokoshero
+  external: true # set true if you using external link, see below
 
 # Example:
 # - title: github
