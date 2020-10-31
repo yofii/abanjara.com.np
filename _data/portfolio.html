@@ -1,0 +1,21 @@
+---
+title: portfolio
+permalink: /portfolio/
+layout: page
+excerpt: test
+comments: false
+---
+<div class="container">
+    <div class="gallery">
+        {% for project in site.data.projects %}
+        <a href="{{ project.url }}" target="_blank" rel="noopener" style="color: inherit;">
+            <div class="gallery-item" tabindex="0">
+                <img src="{{ project.banner }}" class="gallery-image" alt="">
+                <div class="gallery-item-info">
+                    <p>{{ project.title }}</p>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
