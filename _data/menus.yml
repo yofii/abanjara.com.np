@@ -2,10 +2,6 @@
   url: /
   external: false
 
-  title: portfolio
-  url: /portfolio
-  external: false
-
 - title: b. koshero
   url: https://prajjowl.com.np/bathokoshero
   external: true # set true if you using external link, see below
